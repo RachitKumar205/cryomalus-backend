@@ -1,0 +1,2 @@
+grid_size,temp_range,time_steps,varying_point_x,varying_point_y,influence_radius,dataframe_shape,additional_metadata_array
+100,"(20.0, 30.0)",5,64,14,5,"(100, 100)","[100, 100, 5, 64, 14, 5]"
