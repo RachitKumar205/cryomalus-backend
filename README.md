@@ -1,6 +1,6 @@
-# Thermal Anomaly Detection with CNN
+# Cryomalus Backend
 
-This project implements a Convolutional Neural Network (CNN) in PyTorch to detect thermal anomalies in a series of thermal images. The model predicts the coordinates of the anomaly point in the thermal grid.
+This project is a python backend server for the main cryomalus project. The server implements a Convolutional Neural Network (CNN) in PyTorch to detect thermal anomalies in a series of thermal images. The model predicts the coordinates of the anomaly point in the thermal grid.
 
 ## Project Structure
 
